@@ -1,3 +1,4 @@
+alert("welcome to the laughing club")
 const jokeEl = document.getElementById('joke')
 const jokeBtn = document.getElementById('jokeBtn')
 
